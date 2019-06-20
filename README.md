@@ -1,5 +1,6 @@
 # utl-DOW-remove-groups-with-at-least-one-missing-but-keep-remaining-groups-with-one-or-two-children
 Remove groups with at least one missing but keep remaining groups with one or two children
+
     DOW Remove groups with at least one missing but keep remaining groups with one or two children                                           
                                                                                                                                              
     github                                                                                                                                   
@@ -9,7 +10,12 @@ Remove groups with at least one missing but keep remaining groups with one or tw
     SAS Forum (for sql solutions - DOW is more flexible - and fast due to caching?)                                                          
     https://tinyurl.com/y69q4lcr                                                                                                             
     https://communities.sas.com/t5/SAS-Programming/Remove-group-by-conditions/m-p/564056                                                     
-                                                                                                                                             
+   Insight by                                                 
+   Paul Dorfman                                               
+   sashole@bellsouth.net                                      
+                                                           
+   Note, though, that since CONTINUE passes program control   
+   to the bottom of the loop, ELSE is superfluous.                                                                                                                                                
     *_                   _                                                                                                                   
     (_)_ __  _ __  _   _| |_                                                                                                                 
     | | '_ \| '_ \| | | | __|                                                                                                                
