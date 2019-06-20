@@ -10,6 +10,7 @@ Remove groups with at least one missing but keep remaining groups with one or tw
     SAS Forum (for sql solutions - DOW is more flexible - and fast due to caching?)                                                          
     https://tinyurl.com/y69q4lcr                                                                                                             
     https://communities.sas.com/t5/SAS-Programming/Remove-group-by-conditions/m-p/564056                                                     
+    
     Insight by                                                 
     Paul Dorfman                                               
     sashole@bellsouth.net                                      
